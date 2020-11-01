@@ -22,3 +22,11 @@ code {
   font-weight: bold;
   margin: 0;
 }
+
+.music-recommender {
+  width: 23rem;
+}
+
+.music-recommender .aoty {
+  background-color: #f2dd3e;
+}

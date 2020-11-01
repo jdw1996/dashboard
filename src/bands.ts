@@ -1,7 +1,8 @@
-export const bands = `My 2017 Album of the Year: *Villains* by Queens of the Stone Age
-My 2018 Album of the Year: *Little Dark Age* by MGMT
-My 2019 Album of the Year: *Morbid Stuff* by PUP
-311
+export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
+2018 AOTY: *Little Dark Age* by MGMT
+2019 AOTY: *Morbid Stuff* by PUP`;
+
+export const bands = `311
 4 Non Blondes
 ACDC
 The Aces
