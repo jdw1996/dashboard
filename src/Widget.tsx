@@ -8,7 +8,7 @@ type WidgetProps = {
 export function Widget(props: WidgetProps): JSX.Element {
   return (
     <div className="widget">
-      <h2>{props.title}</h2>
+      <h2 className="widget-title">{props.title}</h2>
       {props.children}
     </div>
   );
