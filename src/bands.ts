@@ -233,7 +233,7 @@ Robert Johnson
 Rodriguez
 The Rolling Stones
 Royal Blood
-Run DMC
+Run-D.M.C.
 The Rural Alberta Advantage
 Rush
 The Sadies
