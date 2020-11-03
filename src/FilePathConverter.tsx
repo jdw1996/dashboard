@@ -32,18 +32,38 @@ export function FilePathConverter(): JSX.Element {
 
   return (
     <Widget className="file-path-converter" title="File Path Converter">
-      <p>
-        <input type="text" id="unix-path-input" value={unixPath} size={inputSize} onChange={handleUnixChange} />
-      </p>
-      <p>
-        <input
-          type="text"
-          id="windows-path-input"
-          value={windowsPath}
-          size={inputSize}
-          onChange={handleWindowsChange}
-        />
-      </p>
+      <table>
+        <tr>
+          <td>
+            <label htmlFor="unix">UNIX:</label>
+          </td>
+          <td>
+            <input
+              type="text"
+              id="unix-path-input"
+              name="unix"
+              value={unixPath}
+              onChange={handleUnixChange}
+              size={inputSize}
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label htmlFor="windows">Windows:</label>
+          </td>
+          <td>
+            <input
+              type="text"
+              id="windows-path-input"
+              name="windows"
+              value={windowsPath}
+              onChange={handleWindowsChange}
+              size={inputSize}
+            />
+          </td>
+        </tr>
+      </table>
     </Widget>
   );
 }

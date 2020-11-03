@@ -12,6 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
+p,
+table {
+  margin: 1rem 0;
+}
+
 .widget {
   border: thin solid black;
   padding: 1rem;
