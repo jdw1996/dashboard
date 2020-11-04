@@ -254,6 +254,7 @@ The Smashing Pumpkins
 The Smiths
 Snow Patrol
 The Soft Boys
+Soccer Mommy
 Son Volt
 Soundgarden
 The Sounds
@@ -270,6 +271,7 @@ The Strokes
 The Strumbellas
 Sturgill Simpson
 Sublime
+Superorganism
 Talking Heads
 Tegan and Sara
 Television
