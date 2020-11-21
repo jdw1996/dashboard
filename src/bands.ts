@@ -26,6 +26,7 @@ Beck
 Bedouin Soundclash
 Ben Folds Five
 Big Wreck
+Billie Joe Armstrong
 Billy Idol
 Billy Talent
 Black Eyed Peas
@@ -239,6 +240,7 @@ Rush
 The Sadies
 The Salads
 Sam Cooke
+Santigold
 Save Ferris
 School of Seven Bells
 Sebastien Grainger & The Mountains
@@ -253,8 +255,8 @@ Sly & The Family Stone
 The Smashing Pumpkins
 The Smiths
 Snow Patrol
-The Soft Boys
 Soccer Mommy
+The Soft Boys
 Son Volt
 Soundgarden
 The Sounds
@@ -303,7 +305,6 @@ Wilco
 William Prince
 Willie Nelson
 Wolfmother
-Wovenwar
 X
 The Yardbirds
 Yola
