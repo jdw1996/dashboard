@@ -1,6 +1,7 @@
 export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 2018 AOTY: *Little Dark Age* by MGMT
-2019 AOTY: *Morbid Stuff* by PUP`;
+2019 AOTY: *Morbid Stuff* by PUP
+2020 AOTY: *The New Abnormal* by The Strokes`;
 
 export const bands = `311
 4 Non Blondes
@@ -130,6 +131,7 @@ Howlin' Wolf
 Ian Tyson
 Illuminati Hotties
 Imaginary Cities
+Interpol
 The Interrupters
 Jack Broadbent
 Jackets
