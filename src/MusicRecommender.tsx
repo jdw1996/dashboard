@@ -7,6 +7,9 @@ type MusicNameProps = {
   music: [string, boolean];
 };
 
+const listOfBands = bands.split('\n');
+const listOfAotY = aoty.split('\n');
+
 function MusicName({ music }: MusicNameProps): JSX.Element {
   const [name, isAlbum] = music;
   if (isAlbum) {
@@ -27,8 +30,6 @@ function MusicName({ music }: MusicNameProps): JSX.Element {
 }
 
 export function MusicRecommender(): JSX.Element {
-  const listOfBands = bands.split('\n');
-  const listOfAotY = aoty.split('\n');
   function getRandomMusic(): [string, boolean] {
     const idx = randomInt(listOfBands.length + listOfAotY.length);
     if (idx < listOfAotY.length) {
