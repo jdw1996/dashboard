@@ -26,6 +26,7 @@ The Beatles
 Beck
 Bedouin Soundclash
 Ben Folds Five
+Better Oblivion Community Center
 Big Wreck
 Billie Joe Armstrong
 Billy Idol
@@ -43,6 +44,7 @@ Boots Electric
 BØRNS
 Broken Social Scene
 Bros
+Brothers Osborne
 Buddy Holly
 Buffalo Springfield
 The Byrds
@@ -51,6 +53,7 @@ Cake
 Canailles
 Car Seat Headrest
 Cheap Trick
+Chris Cornell
 Chris Stapleton
 Chubby Checker
 City and Colour
@@ -99,6 +102,7 @@ Finger Eleven
 First Aid Kit
 The Flaming Lips
 Flat Duo Jets
+The Flying Eyes
 The Flys
 Foo Fighters
 Foreigner
@@ -123,6 +127,7 @@ HAIM
 Hank Snow
 Hank Williams
 Harvey Danger
+Hermano
 The Highwaymen
 Hollerado
 Hootie & The Blowfish
@@ -138,6 +143,7 @@ Jackets
 Jack White
 Jake Bugg
 James Carothers
+Japandroids
 Jimi Hendrix
 Joe Bataan
 Joe Strummer & The Mescaleros
@@ -173,20 +179,24 @@ Los Lobos
 Lowest of the Low
 Luke Combs
 Luke Doucet
+Luke Doucet and the White Falcon
 The Lumineers
 Lynyrd Skynyrd
 Mac DeMarco
 The Mamas & The Papas
 Marcy Playground
+Mars Red Sky
 Matchbox Twenty
 Matisyahu
 Matthews' Southern Comfort
 Matt Mays
+Maximo Park
 Maxine Nightingale
 Meat Puppets
 Metallica
 Metric
 MGMT
+M.I.A.
 The Mighty Mighty Bosstones
 Mississippi Sheiks
 Modern Baseball
@@ -215,6 +225,7 @@ The Payolas
 Pearl Jam
 Peter Gabriel
 Phil Collins
+Phoebe Bridgers
 Pink Floyd
 The Postal Service
 The Presidents of the United States of America
@@ -291,6 +302,7 @@ The Tragically Hip
 Transplants
 The Trews
 T. Rex
+Uncle Acid & The Deadbeats
 Uncle Tupelo
 Union Duke
 Van Halen
