@@ -146,7 +146,7 @@ James Carothers
 Japandroids
 Jimi Hendrix
 Joe Bataan
-Joe Strummer & The Mescaleros
+Joe Strummer
 John Denver
 John Frusciante
 John K. Samson
@@ -193,6 +193,7 @@ Matt Mays
 Maximo Park
 Maxine Nightingale
 Meat Puppets
+The Mescaleros
 Metallica
 Metric
 MGMT
