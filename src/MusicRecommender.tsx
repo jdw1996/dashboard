@@ -35,7 +35,7 @@ export function MusicRecommender(): JSX.Element {
     if (idx < listOfAotY.length) {
       return [listOfAotY[idx], true];
     }
-    return [listOfBands[idx - listOfAotY.length + 1], false];
+    return [listOfBands[idx - listOfAotY.length], false];
   }
 
   const [rec, setRec] = useState<[string, boolean]>(getRandomMusic());
