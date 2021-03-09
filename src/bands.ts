@@ -253,6 +253,7 @@ The Rural Alberta Advantage
 Rush
 The Sadies
 The Salads
+Sam Coffey and The Iron Lungs
 Sam Cooke
 Santigold
 Save Ferris
@@ -264,6 +265,7 @@ Shannon Lyon
 The Sheepdogs
 Silversun Pickups
 Simon and Garfunkel
+Sister Rosetta Tharpe
 Sloan
 Sly & The Family Stone
 The Smashing Pumpkins
