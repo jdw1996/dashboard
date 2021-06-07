@@ -3,6 +3,7 @@ import { MusicRecommender } from './MusicRecommender';
 import { CoronavirusUpdate } from './CoronavirusUpdate';
 import { FilePathConverter } from './FilePathConverter';
 import { SportsSchedule } from './SportsSchedule';
+import { TimeWasters } from './TimeWasters';
 
 function App(): JSX.Element {
   return (
@@ -10,6 +11,7 @@ function App(): JSX.Element {
       <MusicRecommender />
       <CoronavirusUpdate />
       <SportsSchedule />
+      <TimeWasters />
       <FilePathConverter />
     </div>
   );
