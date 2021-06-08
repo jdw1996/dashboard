@@ -7,6 +7,7 @@ export const bands = `311
 4 Non Blondes
 ACDC
 The Aces
+Adriano Celentano
 The Aggrolites
 Alabama Shakes
 Alain Johannes
@@ -20,6 +21,7 @@ Ass Ponys
 Audioslave
 Band of Skulls
 Barenaked Ladies
+The Baseball Project
 The Beaches
 Beastie Boys
 The Beatles
@@ -43,6 +45,7 @@ Bob Marley & The Wailers
 Boots Electric
 BØRNS
 Broken Social Scene
+BRONCHO
 Bros
 Brothers Osborne
 Buddy Holly
@@ -70,7 +73,9 @@ Daniel Romano
 Danny Michel
 Darius Rucker
 David Bowie
+David Newberry
 The Deadly Snakes
+The Dead South
 The Dead Weather
 Death Cab for Cutie
 Death From Above
@@ -132,6 +137,7 @@ The Highwaymen
 Hollerado
 Hootie & The Blowfish
 Hot Hot Heat
+Houndmouth
 Howlin' Wolf
 Ian Tyson
 Illuminati Hotties
@@ -288,6 +294,7 @@ Stone Temple Pilots
 The Strokes
 The Strumbellas
 Sturgill Simpson
+St. Vincent
 Sublime
 Superorganism
 Talking Heads
@@ -296,6 +303,7 @@ Television
 Texas King
 Them Crooked Vultures
 Third Eye Blind
+Thornley
 Tim Armstrong
 Tim Timebomb
 Tom Rosenthal
