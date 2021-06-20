@@ -10,6 +10,8 @@ export function TimeWasters(): JSX.Element {
         <a href="https://www.coolmathgames.com/0-merge-rings">Merge Rings</a>
         <br />
         <a href="https://www.coolmathgames.com/0-swing-monkey">Swing Monkey</a>
+        <br />
+        <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
       </p>
     </Widget>
   );
