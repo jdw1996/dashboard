@@ -5,7 +5,7 @@ export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 
 export const bands = `311
 4 Non Blondes
-ACDC
+AC/DC
 The Aces
 Adriano Celentano
 The Aggrolites
@@ -24,11 +24,13 @@ Barenaked Ladies
 The Baseball Project
 The Beaches
 Beastie Boys
+Beat Happening
 The Beatles
 Beck
 Bedouin Soundclash
 Ben Folds Five
 Better Oblivion Community Center
+Big Rude Jake
 Big Wreck
 Billie Joe Armstrong
 Billy Idol
@@ -78,7 +80,7 @@ The Deadly Snakes
 The Dead South
 The Dead Weather
 Death Cab for Cutie
-Death From Above
+Death From Above 1979
 The Decemberists
 Depeche Mode
 The Desert Sessions
@@ -86,6 +88,7 @@ Devin Cuddy
 Dex Romweber Duo
 Dispatch
 Dirty Heads
+Django Django
 Dolly Parton
 The Doors
 Dropkick Murphys
@@ -156,12 +159,15 @@ Joe Strummer
 John Denver
 John Frusciante
 John K. Samson
+John Lee Hooker
 Johnny Cash
+The John Spencer Blues Explosion
 Jonathan Richman
 Jonathan Richman & The Modern Lovers
 Joy Division
 Jukebox the Ghost
 July Talk
+Junior Kimbrough
 Justice
 k-os
 Kacey Musgraves
@@ -171,6 +177,7 @@ Kashmere Stage Band
 Kiss
 The Knitters
 Kris Kristofferson
+KRS-One
 Ky-Mani Marley
 Kyuss
 Lady A
@@ -209,11 +216,14 @@ Mississippi Sheiks
 Modern Baseball
 The Modern Lovers
 Modest Mouse
+MONOWHALES
 Monster Truck
 Mother Mother
 Motörhead
 Moxy Früvous
 Mumford & Sons
+Mungo Jerry
+Muse
 Nathaniel Rateliff
 Nebula
 Neil Young
@@ -234,6 +244,7 @@ Peter Gabriel
 Phil Collins
 Phoebe Bridgers
 Pink Floyd
+Pom Pom Squad
 The Postal Service
 The Presidents of the United States of America
 Prince
@@ -249,7 +260,7 @@ Ratatat
 Red Hot Chili Peppers
 The Red Jumpsuit Apparatus
 The Reklaws
-REM
+R.E.M.
 Robert Johnson
 Rodriguez
 The Rolling Stones
@@ -273,6 +284,7 @@ Silversun Pickups
 Simon and Garfunkel
 Sister Rosetta Tharpe
 Sloan
+Slothrust
 Sly & The Family Stone
 The Smashing Pumpkins
 The Smiths
