@@ -1,6 +1,6 @@
 import React from 'react';
 import { MusicRecommender } from './MusicRecommender';
-import { CoronavirusUpdate } from './CoronavirusUpdate';
+import { Covid19Update } from './Covid19Update';
 import { FilePathConverter } from './FilePathConverter';
 import { SportsSchedule } from './SportsSchedule';
 import { TimeWasters } from './TimeWasters';
@@ -9,7 +9,7 @@ function App(): JSX.Element {
   return (
     <div className="app">
       <MusicRecommender />
-      <CoronavirusUpdate />
+      <Covid19Update />
       <SportsSchedule />
       <TimeWasters />
       <FilePathConverter />
