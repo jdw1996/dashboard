@@ -1,7 +1,8 @@
 export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 2018 AOTY: *Little Dark Age* by MGMT
 2019 AOTY: *Morbid Stuff* by PUP
-2020 AOTY: *The New Abnormal* by The Strokes`;
+2020 AOTY: *The New Abnormal* by The Strokes
+2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad`;
 
 export const bands = `311
 4 Non Blondes
@@ -18,6 +19,7 @@ The Animals
 Antarctigo Vespucci
 Arctic Monkeys
 Ass Ponys
+Astronoid
 Audioslave
 Band of Skulls
 Barenaked Ladies
@@ -32,6 +34,7 @@ Ben Folds Five
 Better Oblivion Community Center
 Big Rude Jake
 Big Wreck
+Billie Eilish
 Billie Joe Armstrong
 Billy Idol
 Billy Talent
@@ -46,6 +49,7 @@ Blur
 Bob Marley & The Wailers
 Boots Electric
 BØRNS
+Broken Bells
 Broken Social Scene
 BRONCHO
 Bros
@@ -57,6 +61,7 @@ Cage the Elephant
 Cake
 Canailles
 Car Seat Headrest
+Charley Crockett
 Cheap Trick
 Chris Cornell
 Chris Stapleton
@@ -76,6 +81,7 @@ Danny Michel
 Darius Rucker
 David Bowie
 David Newberry
+Dávila 666
 The Deadly Snakes
 The Dead South
 The Dead Weather
@@ -165,7 +171,6 @@ The John Spencer Blues Explosion
 Jonathan Richman
 Jonathan Richman & The Modern Lovers
 Joy Division
-Jukebox the Ghost
 July Talk
 Junior Kimbrough
 Justice
@@ -234,7 +239,9 @@ NQ Arbuckle
 Oasis
 The Offspring
 Of Monsters and Men
+Olivia Rodrigo
 Operation Ivy
+Orville Peck
 Passion Pit
 Paul McCartney
 Paul Simon
@@ -244,6 +251,7 @@ Peter Gabriel
 Phil Collins
 Phoebe Bridgers
 Pink Floyd
+Pinkshift
 Pom Pom Squad
 The Postal Service
 The Presidents of the United States of America
@@ -253,6 +261,7 @@ Queen
 Queens of the Stone Age
 Quest for Fire
 The Raconteurs
+Radio Moscow
 Rage Against the Machine
 Ramones
 Rancid
@@ -280,6 +289,7 @@ Secret Machines
 Semisonic
 Shannon Lyon
 The Sheepdogs
+Sheer Mag
 Silversun Pickups
 Simon and Garfunkel
 Sister Rosetta Tharpe
@@ -334,6 +344,7 @@ The Velvet Underground
 Vicente Fernández
 Violent Soho
 The Weakerthans
+Wednesday
 Weezer
 Weyes Blood
 The White Stripes
