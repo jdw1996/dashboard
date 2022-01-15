@@ -14,6 +14,8 @@ export function TimeWasters(): JSX.Element {
         <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
         <br />
         <a href="https://www.coolmathgames.com/0-mini-metro-london">Mini Metro: London</a>
+        <br />
+        <a href="https://qntm.org/files/wordle/index.html">Absurdle</a>
       </p>
     </Widget>
   );
