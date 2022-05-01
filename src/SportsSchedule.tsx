@@ -9,6 +9,9 @@ export function SportsSchedule(): JSX.Element {
           Jays, Leafs, Raptors, Mets, Bills
         </a>
       </p>
+      <p>
+        <a href="https://motorsport-events.netlify.app/">Upcoming motorsports events</a>
+      </p>
     </Widget>
   );
 }
