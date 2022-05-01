@@ -63,6 +63,7 @@ Canailles
 Car Seat Headrest
 Charley Crockett
 Cheap Trick
+Chloe Lilac
 Chris Cornell
 Chris Stapleton
 Chubby Checker
@@ -108,9 +109,11 @@ Electric Light Orchestra
 Evanescence
 Everclear
 Ex Norwegian
+Ezra Furman
 The Faint
 Fall Out Boy
 Fat Mattress
+Fenne Lily
 Fine Young Cannibals
 Finger Eleven
 First Aid Kit
@@ -202,6 +205,7 @@ The Lumineers
 Lynyrd Skynyrd
 Mac DeMarco
 The Mamas & The Papas
+Måneskin
 Marcy Playground
 Mars Red Sky
 Matchbox Twenty
@@ -326,6 +330,7 @@ Texas King
 Them Crooked Vultures
 Third Eye Blind
 Thornley
+Tigers Jaw
 Tim Armstrong
 Tim Timebomb
 Tom Rosenthal
