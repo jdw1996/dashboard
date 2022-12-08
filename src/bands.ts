@@ -17,13 +17,16 @@ Ancient Shapes
 Andrew Stockdale
 The Animals
 Antarctigo Vespucci
+Anxious Pleasers
 Arctic Monkeys
 Ass Ponys
 Astronoid
 Audioslave
+Bad Bad Hats
 Band of Skulls
 Barenaked Ladies
 The Baseball Project
+Beach Bunny
 The Beaches
 Beastie Boys
 Beat Happening
@@ -100,6 +103,7 @@ Dolly Parton
 The Doors
 Dropkick Murphys
 Drugdealer
+Duff Thompson
 Duran Duran
 Eagles of Death Metal
 Earth, Wind & Fire
@@ -139,6 +143,7 @@ The Grasping Straws
 Great Big Sea
 Greta Van Fleet
 Green Day
+The Growlers
 Guns N Roses
 HAIM
 Hank Snow
@@ -162,9 +167,11 @@ Jack White
 Jake Bugg
 James Carothers
 Japandroids
+Jeremie Albino
 Jimi Hendrix
 Joe Bataan
 Joe Strummer
+Joey Valence & Brae
 John Denver
 John Frusciante
 John K. Samson
@@ -174,6 +181,7 @@ The John Spencer Blues Explosion
 Jonathan Richman
 Jonathan Richman & The Modern Lovers
 Joy Division
+Julian Casablancas
 July Talk
 Junior Kimbrough
 Justice
@@ -182,6 +190,8 @@ Kacey Musgraves
 Kaiser Chiefs
 KALEO
 Kashmere Stage Band
+The Killers
+The Kinks
 Kiss
 The Knitters
 Kris Kristofferson
@@ -254,6 +264,7 @@ Pearl Jam
 Peter Gabriel
 Phil Collins
 Phoebe Bridgers
+Phoenix
 Pink Floyd
 Pinkshift
 Pom Pom Squad
@@ -274,10 +285,12 @@ Red Hot Chili Peppers
 The Red Jumpsuit Apparatus
 The Reklaws
 R.E.M.
+Remember Sports
 Robert Johnson
 Rodriguez
 The Rolling Stones
 Royal Blood
+Royel Otis
 Run-D.M.C.
 The Rural Alberta Advantage
 Rush
@@ -294,6 +307,8 @@ Semisonic
 Shannon Lyon
 The Sheepdogs
 Sheer Mag
+The Shins
+ShitKid
 Silversun Pickups
 Simon and Garfunkel
 Sister Rosetta Tharpe
@@ -302,6 +317,7 @@ Slothrust
 Sly & The Family Stone
 The Smashing Pumpkins
 The Smiths
+Snõõper
 Snow Patrol
 Soccer Mommy
 The Soft Boys
@@ -323,6 +339,7 @@ Sturgill Simpson
 St. Vincent
 Sublime
 Superorganism
+The Supremes
 Talking Heads
 Tegan and Sara
 Television
@@ -347,9 +364,12 @@ Van Halen
 The Vaselines
 The Velvet Underground
 Vicente Fernández
+The Vines
 Violent Soho
+Watchhouse
 The Weakerthans
 Wednesday
+Ween
 Weezer
 Weyes Blood
 The White Stripes
