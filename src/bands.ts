@@ -2,7 +2,8 @@ export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 2018 AOTY: *Little Dark Age* by MGMT
 2019 AOTY: *Morbid Stuff* by PUP
 2020 AOTY: *The New Abnormal* by The Strokes
-2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad`;
+2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad
+2022 AOTY: *Bronco* by Orville Peck`;
 
 export const bands = `311
 4 Non Blondes
@@ -50,6 +51,7 @@ Blood Red Shoes
 Blue Öyster Cult
 Blur
 Bob Marley & The Wailers
+Bodega
 Boots Electric
 BØRNS
 Broken Bells
@@ -59,6 +61,7 @@ Bros
 Brothers Osborne
 Buddy Holly
 Buffalo Springfield
+Busty and the Bass
 The Byrds
 Cage the Elephant
 Cake
@@ -371,6 +374,7 @@ The Weakerthans
 Wednesday
 Ween
 Weezer
+Wet Leg
 Weyes Blood
 The White Stripes
 The Who
