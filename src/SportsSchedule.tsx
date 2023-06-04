@@ -7,8 +7,6 @@ export function SportsSchedule(): JSX.Element {
       <a href="https://josephwinters.com/sports-schedule/?MLB_TOR=Royal&NHL_TOR=Navy&NBA_TOR=Purple&MLB_NYM=Orange&NFL_BUF=Red">
         Jays, Leafs, Raptors, Mets, Bills
       </a>
-      <br />
-      <a href="https://motorsport-events.netlify.app/">Upcoming motorsports events</a>
     </Widget>
   );
 }

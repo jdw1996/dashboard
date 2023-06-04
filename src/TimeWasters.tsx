@@ -9,13 +9,7 @@ export function TimeWasters(): JSX.Element {
         <br />
         <a href="https://www.coolmathgames.com/0-merge-rings">Merge Rings</a>
         <br />
-        <a href="https://www.coolmathgames.com/0-swing-monkey">Swing Monkey</a>
-        <br />
         <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
-        <br />
-        <a href="https://www.coolmathgames.com/0-mini-metro-london">Mini Metro: London</a>
-        <br />
-        <a href="https://qntm.org/files/wordle/index.html">Absurdle</a>
       </p>
     </Widget>
   );
