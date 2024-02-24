@@ -3,7 +3,8 @@ export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 2019 AOTY: *Morbid Stuff* by PUP
 2020 AOTY: *The New Abnormal* by The Strokes
 2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad
-2022 AOTY: *Bronco* by Orville Peck`;
+2022 AOTY: *Bronco* by Orville Peck
+2023 AOTY: *Sofa Kings* by Royel Otis`;
 
 export const bands = `311
 4 Non Blondes
@@ -14,6 +15,7 @@ The Aggrolites
 Alabama Shakes
 Alain Johannes
 Alexisonfire
+Alvvays
 Ancient Shapes
 Andrew Stockdale
 The Animals
@@ -35,6 +37,7 @@ The Beatles
 Beck
 Bedouin Soundclash
 Ben Folds Five
+Best Coast
 Better Oblivion Community Center
 Big Rude Jake
 Big Wreck
@@ -54,6 +57,7 @@ Bob Marley & The Wailers
 Bodega
 Boots Electric
 BØRNS
+boygenius
 Broken Bells
 Broken Social Scene
 BRONCHO
@@ -75,6 +79,7 @@ Chris Stapleton
 Chubby Checker
 City and Colour
 The Clash
+Coconut Records
 Cookie & The Cupcakes
 Corb Lund
 Cosmo Sheldrake
@@ -170,6 +175,7 @@ Jack White
 Jake Bugg
 James Carothers
 Japandroids
+Jeff Rosenstock
 Jeremie Albino
 Jimi Hendrix
 Joe Bataan
@@ -202,6 +208,7 @@ KRS-One
 Ky-Mani Marley
 Kyuss
 Lady A
+La Luz
 LCD Soundsystem
 Lead Belly
 Led Zeppelin
@@ -209,6 +216,7 @@ Lemon Bucket Orkestra
 Letters to Cleo
 Lindy Vopnfjord
 London Posse
+Los Bitchos
 Los Lobos
 Lowest of the Low
 Luke Combs
@@ -315,6 +323,7 @@ ShitKid
 Silversun Pickups
 Simon and Garfunkel
 Sister Rosetta Tharpe
+Sister Swire
 Sloan
 Slothrust
 Sly & The Family Stone
@@ -384,5 +393,6 @@ Willie Nelson
 Wolfmother
 X
 The Yardbirds
+Yin Yin
 Yola
 ZZ Top`;
