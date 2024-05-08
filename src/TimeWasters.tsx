@@ -12,8 +12,6 @@ export function TimeWasters(): JSX.Element {
         <a href="https://www.coolmathgames.com/0-same-game">Same Game</a>
         <br />
         <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
-        <br />
-        <a href="https://suika.gg/">Watermelon Game</a>
       </p>
     </Widget>
   );
