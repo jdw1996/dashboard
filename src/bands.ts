@@ -4,9 +4,11 @@ export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
 2020 AOTY: *The New Abnormal* by The Strokes
 2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad
 2022 AOTY: *Bronco* by Orville Peck
-2023 AOTY: *Sofa Kings* by Royel Otis`;
+2023 AOTY: *Sofa Kings* by Royel Otis
+2024 AOTY: *Trail of Flowers* by Sierra Ferrell`;
 
-export const bands = `311
+export const bands = `21 Springs
+311
 4 Non Blondes
 AC/DC
 The Aces
@@ -155,11 +157,13 @@ The Growlers
 Guns N Roses
 Habibi
 HAIM
+The Handsome Family
 Hank Snow
 Hank Williams
 Harvey Danger
 Hermano
 The Highwaymen
+Hinds
 Hollerado
 Hootie & The Blowfish
 Hot Hot Heat
@@ -321,6 +325,7 @@ The Sheepdogs
 Sheer Mag
 The Shins
 ShitKid
+Sierra Ferrell
 Silversun Pickups
 Simon and Garfunkel
 Sister Rosetta Tharpe
