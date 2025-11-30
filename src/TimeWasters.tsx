@@ -9,7 +9,7 @@ export function TimeWasters(): JSX.Element {
         <br />
         <a href="https://www.coolmathgames.com/0-merge-rings">Merge Rings</a>
         <br />
-        <a href="https://www.coolmathgames.com/0-same-game">Same Game</a>
+        <a href="https://danielben.itch.io/dragonsweeper">Dragonsweeper</a>
         <br />
         <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
       </p>
