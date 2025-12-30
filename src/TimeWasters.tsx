@@ -5,11 +5,13 @@ export function TimeWasters(): JSX.Element {
   return (
     <Widget className="time-wasters" title="Time Wasters">
       <p>
+        <a href="https://danielben.itch.io/dragonsweeper">Dragonsweeper</a>
+        <br />
         <a href="https://josephwinters.com/jothello/">Jothello</a>
         <br />
         <a href="https://www.coolmathgames.com/0-merge-rings">Merge Rings</a>
         <br />
-        <a href="https://danielben.itch.io/dragonsweeper">Dragonsweeper</a>
+        <a href="https://piqnt.com/ocean">Ocean</a>
         <br />
         <a href="https://www.coolmathgames.com/0-treasure-slide">Treasure Slide</a>
       </p>
