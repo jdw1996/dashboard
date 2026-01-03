@@ -1,11 +1,12 @@
-export const aoty = `2017 AOTY: *Villains* by Queens of the Stone Age
-2018 AOTY: *Little Dark Age* by MGMT
-2019 AOTY: *Morbid Stuff* by PUP
-2020 AOTY: *The New Abnormal* by The Strokes
-2021 AOTY: *Death of a Cheerleader* by Pom Pom Squad
-2022 AOTY: *Bronco* by Orville Peck
-2023 AOTY: *Sofa Kings* by Royel Otis
-2024 AOTY: *Trail of Flowers* by Sierra Ferrell`;
+export const aoty = `2017 AotY: *Villains* by Queens of the Stone Age
+2018 AotY: *Little Dark Age* by MGMT
+2019 AotY: *Morbid Stuff* by PUP
+2020 AotY: *The New Abnormal* by The Strokes
+2021 AotY: *Death of a Cheerleader* by Pom Pom Squad
+2022 AotY: *Bronco* by Orville Peck
+2023 AotY: *Sofa Kings* by Royel Otis
+2024 AotY: *Trail of Flowers* by Sierra Ferrell
+2025 AotY: *moisturizer* by Wet Leg`;
 
 export const bands = `21 Springs
 311
@@ -73,6 +74,7 @@ Cage the Elephant
 Cake
 Canailles
 Car Seat Headrest
+Chaparelle
 Charley Crockett
 Cheap Trick
 Chloe Lilac
@@ -133,6 +135,7 @@ Finger Eleven
 First Aid Kit
 The Flaming Lips
 Flat Duo Jets
+Florence Road
 The Flying Eyes
 The Flys
 Foo Fighters
@@ -178,10 +181,12 @@ Jack Broadbent
 Jackets
 Jack White
 Jake Bugg
+Jake Vaadeland
 James Carothers
 Japandroids
 Jeff Rosenstock
 Jeremie Albino
+Jim Croce
 Jimi Hendrix
 Joe Bataan
 Joe Strummer
@@ -245,6 +250,7 @@ The Mescaleros
 Metallica
 Metric
 MGMT
+MJ Lenderman
 M.I.A.
 The Mighty Mighty Bosstones
 Mississippi Sheiks
@@ -356,8 +362,10 @@ The Strumbellas
 Sturgill Simpson
 St. Vincent
 Sublime
+Sun Room
 Superorganism
 The Supremes
+Surf Hat
 Talking Heads
 Tegan and Sara
 Television
@@ -368,6 +376,7 @@ Thornley
 Tigers Jaw
 Tim Armstrong
 Tim Timebomb
+Tinariwen
 Tom Rosenthal
 Top Nachos
 Townes Van Zandt
@@ -384,6 +393,7 @@ The Velvet Underground
 Vicente Fernández
 The Vines
 Violent Soho
+Warren Zevon
 Watchhouse
 The Weakerthans
 Wednesday
