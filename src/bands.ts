@@ -196,7 +196,7 @@ John Frusciante
 John K. Samson
 John Lee Hooker
 Johnny Cash
-The John Spencer Blues Explosion
+The Jon Spencer Blues Explosion
 Jonathan Richman
 Jonathan Richman & The Modern Lovers
 Joy Division
@@ -241,7 +241,7 @@ Marcy Playground
 Mars Red Sky
 Matchbox Twenty
 Matisyahu
-Matthews' Southern Comfort
+Matthews Southern Comfort
 Matt Mays
 Maximo Park
 Maxine Nightingale
