@@ -195,6 +195,7 @@ John Denver
 John Frusciante
 John K. Samson
 John Lee Hooker
+Johnny Blue Skies
 Johnny Cash
 The Jon Spencer Blues Explosion
 Jonathan Richman
@@ -209,7 +210,9 @@ Kacey Musgraves
 Kaiser Chiefs
 KALEO
 Kashmere Stage Band
+Kazdoura
 The Killers
+King Gizzard and the Lizard Wizard
 The Kinks
 Kiss
 The Knitters
@@ -381,6 +384,7 @@ Tom Rosenthal
 Top Nachos
 Townes Van Zandt
 The Tragically Hip
+Trampled by Turtles
 Transplants
 The Trews
 T. Rex
